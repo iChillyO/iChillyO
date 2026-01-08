@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharaf Hazem
 
-<!--
-**iTextar/iTextar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student  developer & Creative with a strong interest in **web development**, and **applied technology solutions**.  
+I focus on building practical systems that solve real problems, combining technical skills with clear documentation and usability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What am I currently working on?
+
+- 📌 Buliding websites / IT Support system**
+- 🌐 Web projects using modern front-end and back-end technologies
+- 📚 Building clear documentation and workflows for technical systems
+
+---
+
+## 🛠️ Tools & Technologies I Use
+
+**Programming & Web**
+- HTML, CSS, JavaScript
+- PHP, MySQL
+- React, Next.js, MangoDB (learning & projects)
+- WordPress
+
+**IT & Support**
+- Help Desk workflows & ticket systems
+- System troubleshooting (software & basic networking)
+- Documentation & knowledge bases
+
+**Other Tools & Workflow**
+- Git & GitHub
+- VS Code
+- design tools (basic)
+- Windows environmentsTools 
+- ChatGPT (for brainstorming, documentation drafting, and edge-case analysis)
+- Manual implementation, testing, and debugging
+
+---
+
+## 📫 How to reach me?
+
+- 💼 GitHub: https://github.com/iTextar
+- 🌍 Location: Gaza / Palestine
+
+---
+
+⭐ Feel free to check my repositories, open issues, or reach out if you'd like to collaborate.
