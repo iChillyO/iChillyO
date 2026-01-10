@@ -38,7 +38,7 @@ I focus on building practical systems that solve real problems, combining techni
 
 ## 📫 How to reach me?
 
-- 💼 GitHub: https://github.com/iTextar
+- 💼 GitHub: https://github.com/iChillyO
 - 🌍 Location: Gaza / Palestine
 
 ---
