@@ -37,7 +37,8 @@ I focus on building practical systems that solve real problems, combining techni
 ---
 
 ## 📫 How to reach me?
-
+- 📱 Instrgram: https://www.instagram.com/ichilly0
+- 📓 Twitter/X: https://x.com/newChilly_
 - 💼 GitHub: https://github.com/iChillyO
 - 🌍 Location: Gaza / Palestine
 
