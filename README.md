@@ -40,6 +40,9 @@ I focus on building practical systems that solve real problems, combining techni
 - 📱 Instrgram: https://www.instagram.com/ichilly0
 - 📓 Twitter/X: https://x.com/newChilly_
 - 💼 GitHub: https://github.com/iChillyO
+- 🏢 Linkedin: https://www.linkedin.com/in/sharaf-hazem-93a2a13a5/
+
+
 - 🌍 Location: Gaza / Palestine
 
 ---
