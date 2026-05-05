@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharaf Hazem
+#  Hi, I'm Sharaf Hazem
 
 I'm a software engineering student  developer & Creative with a strong interest in **web development**, and **applied technology solutions**.  
 I focus on building practical systems that solve real problems, combining technical skills with clear documentation and usability.
