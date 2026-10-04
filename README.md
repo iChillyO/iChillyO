@@ -44,7 +44,7 @@ I focus on building practical systems that solve real problems, combining techni
 
 
 - 🌍 Location: Gaza / Palestine
-
+[![Run on Replit](https://img.shields.io/badge/Run_on_Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/refer/lambdaapps?trackingContext=referral...)
 ---
 
 ⭐ Feel free to check my repositories, open issues, or reach out if you'd like to collaborate.
