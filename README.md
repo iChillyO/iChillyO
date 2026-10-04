@@ -4,6 +4,10 @@ I'm a software engineering student  developer & Creative with a strong interest 
 I focus on building practical systems that solve real problems, combining technical skills with clear documentation and usability.
 
 ---
+Get $20 in Replit Credits for Cloud IDE & AI Coding Workspaces
+
+[![Run on Replit](https://img.shields.io/badge/Run_on_Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/refer/lambdaapps?trackingContext=referral...)
+
 
 ## 🔧 What am I currently working on?
 
@@ -44,7 +48,7 @@ I focus on building practical systems that solve real problems, combining techni
 
 
 - 🌍 Location: Gaza / Palestine
-[![Run on Replit](https://img.shields.io/badge/Run_on_Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/refer/lambdaapps?trackingContext=referral...)
+
 ---
 
 ⭐ Feel free to check my repositories, open issues, or reach out if you'd like to collaborate.
